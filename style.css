@@ -1,0 +1,10 @@
+.calculator{
+    border:solid 10px red;
+    width: 400px;
+}
+button{
+    height: 50px;
+    width: 50px;
+     border-radius:10px;
+     background-color: blue;
+}
